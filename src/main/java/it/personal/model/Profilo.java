@@ -1,6 +1,6 @@
-package model;
+package it.personal.model;
 
-import DTO.Sesso;
+import it.personal.DTO.Sesso;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

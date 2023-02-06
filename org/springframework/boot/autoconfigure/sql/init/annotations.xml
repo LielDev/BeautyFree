@@ -1,0 +1,5 @@
+<root>
+    <item name='org.springframework.boot.autoconfigure.sql.init.DataSourceInitializationConfiguration org.springframework.boot.autoconfigure.sql.init.SqlDataSourceScriptDatabaseInitializer dataSourceScriptDatabaseInitializer(javax.sql.DataSource, org.springframework.boot.autoconfigure.sql.init.SqlInitializationProperties)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
