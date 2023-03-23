@@ -6,9 +6,9 @@ import org.springframework.data.repository.CrudRepository;
 
 public abstract class AbstractService<Entity,DTO> implements ServiceDTO<DTO> {
 
-    @Autowired
+
     protected CrudRepository<Entity,Long> repository;
-    @Autowired
+
     protected Converter<Entity,DTO> converter;
 
     @Override
